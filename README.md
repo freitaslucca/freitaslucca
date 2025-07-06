@@ -1,18 +1,21 @@
 <h1 align="left">Hey 👨🏻‍💻 What's up?</h1>
 
 <p align="left">
-  My name is Lucca Freitas, a passionate Software Developer from Brusque, SC, Brazil. While I've built full-stack solutions since 2020, my current focus is on crafting robust and scalable backend systems.
+  I'm <strong>Lucca Freitas Rodrigues</strong>, a passionate Full Stack Software Developer from Brusque, SC – Brazil. Since 2020, I've been building end-to-end digital solutions, and today I focus on creating reliable, scalable, and high-performance backend systems.
 </p>
 
-<h2 align="left">About Me</h2>
+<h2 align="left">🚀 About Me</h2>
+
 <p align="left">
-  👨🏻‍💻 With over 3 years of development experience, I design, implement, and optimize backend architectures that power high-performance applications.<br>
-  🛠️ Currently thriving as a <strong>Backend Developer</strong>, I specialize in developing RESTful APIs, microservices, and managing databases with a keen eye on security and scalability.<br>
-  📚 I'm continuously refining my expertise in Node.js, TypeScript, and modern backend frameworks, while also keeping up-to-date with cloud technologies and DevOps practices.<br>
-  🎯 My mission is to build reliable, efficient systems that elevate user experiences and drive business growth.
+  👨🏻‍💻 With over 3 years of experience in software development, I specialize in architecting and building RESTful APIs, microservices, and real-time systems using modern web technologies.<br><br>
+  ⚙️ My current focus is on backend development with <strong>Node.js</strong>, <strong>Fastify</strong>, and <strong>TypeScript</strong>, integrating robust databases like <strong>MySQL</strong> and <strong>MongoDB</strong>, and deploying scalable apps on <strong>AWS</strong>.<br><br>
+  🏍️ I'm also passionate about automotive tech and IoT — I’ve built solutions involving ESP32, CAN networks, and Bluetooth integration for performance motorcycle modules.<br><br>
+  📚 I'm always learning — whether it’s about cloud architecture, clean code, or real-time telemetry, I love turning ideas into working, impactful software.<br><br>
+  🎯 My mission? To build systems that perform, scale, and deliver real value.
 </p>
 
-<h2 align="left">I Code With</h2>
+<h2 align="left">💻 Tech Stack</h2>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
   <img width="12" />
@@ -20,12 +23,24 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg" height="40" alt="Fastify logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
 </div>
+
+<h2 align="left">🌐 Connect with Me</h2>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/lucca-freitas-rodrigues/" target="_blank">
